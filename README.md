@@ -1,1 +1,1 @@
-Решения некоторых задач из [этого практикума](https://vk.com/doc46929266_623796909?hash=0d652364d065976392&dl=47c4054f004bb1297b)
+Решения некоторых задач из [этого практикума](https://github.com/blokhinnv/kotlin-intro/blob/master/Laboratorny_praktikum_po_programmirovaniyu.pdf)
